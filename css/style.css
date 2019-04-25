@@ -1369,6 +1369,20 @@ footer li:hover{
     -ms-transform: translateY(0);
     transform: translateY(0);
 }
+.tarif-member .line-fonctionnement li{
+    width:33%;
+    padding:0 30px;
+    line-height: 24px;
+    font-size: 18px;
+}
+.tarif-member .line-fonctionnement{
+    margin-bottom:120px;
+}
+.free-tarif{
+    text-transform: uppercase;
+    color:#d83a4e;
+    line-height: 40px;
+}
 .line-fonctionnement li:hover{
     -webkit-transition-timing-function: ease-out;
     transition-timing-function: ease-out;
@@ -1672,6 +1686,21 @@ footer li:hover{
 .mentions h2, .whoare h2, .page404 h2, .cgu h2{
     color:#d83a4e;
 }
+.tarif-partner h3, .tarif-dons h3, .tarif-virement h3{
+    text-transform: uppercase;
+    color: #d83a4e;
+    font-size:32px;
+    margin: 0;
+}
+.line-tarif{
+    display: flex;
+}
+.left-line-tarif{
+    margin-right:30px;
+}
+.right-line-tarif{
+    margin-left:30px;
+}
 .cgu .bloc-white p{
     text-align:left;
     margin-bottom:30px;
@@ -1683,6 +1712,17 @@ footer li:hover{
 }
 .tarif-partner, .tarif-dons, .tarif-virement{
     position:relative;
+    text-align: left;
+}
+.tarif-partner img, .tarif-dons img, .tarif-virement img{
+    width:500px;
+}
+.tarif-partner h2, .tarif-dons h2, .tarif-virement h2{
+    font-size: 28px;
+    line-height: 32px;
+    color:#2a2440;
+    padding-top: 70px;
+    margin-bottom: 10px;
 }
 .whoare img{
     width:50%;
