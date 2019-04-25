@@ -336,7 +336,7 @@ $(document).ready(function(){
     });
 });
 
-var n = 19; // Nombre final du compteur
+var n = 19.50; // Nombre final du compteur
 var cpt = 0; // Initialisation du compteur
 var duree = 3; // Durée en seconde pendant laquel le compteur ira de 0 à 15
 var delta = Math.ceil((duree * 500) / n); // On calcule l'intervalle de temps entre chaque rafraîchissement du compteur (durée mise en milliseconde)

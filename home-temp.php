@@ -27,11 +27,13 @@
                     <div class="width50 suscribe-right">
                     <div class="bloc-suscribe">
                         <div class="suscribe-title">
-                            <h3 class="text-orange">Je crée mon Spliiit !</h3>
+                            <h3 class="text-orange">Préparez vous au lancement !</h3>
                         </div>
                         <ul>
                             <li>
-                                <p><strong>Nous arrivons bientôt !</strong><br><br>En attendant inscrivez votre mail pour être avertis du lancement.<br><br>10 Mails seront tirés au sort pour bénéficier d'un an de Premium Netflix Offert !<br>(Valeur de 168 Euros)</p>
+                                <p><strong>Nous arrivons le 15 mai !</strong><br><br>
+                                Spliiit va changer votre vite (oui rien que ça :-)), ou en tout cas vous permettre de faire des économies.<br><br>
+                                Et si jamais vous nous avez oublié d'ici là, n'hésitez pas à enregistrer votre mail pour être avertis du lancement ;-) !</p>
                                 <div class="container-btn-social">
                                     <a href="https://sibforms.com/serve/MUIEAHYuHF4vBuu7xb_dUj2dEn-gCxkI6KGrMWqX0hmmlcPuJCHa4J20idWw5zSnmxl9UEpsK2ChWRhYGoj0vc4huE7A_XvfDC5zLXMHqenArX7sdqU5mR_dp4IP90KuHKSJwpcaimidSn5OE_dEmbtiy4H6uqrWHdl6s4Xv9IX7JlMysgM96nihmFJsuKWsfwOyDdmCvfGaNrGW" id="facebook-btn" style="width:100%; margin-right:0; margin-top:30px;" >
                                         <div class="btn-orange">Etre avertis du lancement</div>
@@ -65,7 +67,7 @@
         <h1>Comment ça marche ?</h1>
         <div class="line-fonctionnement">
             <ul>
-                <li><img src="img/creer.png" alt="creer-un-spliiit"/><p>Créez votre Spliiit en 3 clics gratuitement.</p></li>
+                <li><img src="img/creer.png" alt="creer-un-spliiit"/><p>Créez votre Spliiit en 5 secondes gratuitement.</p></li>
                 <li><img src="img/partage.png" alt="partager-l-adresse"/><p>Partagez l'adresse de votre Spliiit à vos amis.</p></li>
                 <li><img src="img/inscription.png" alt="abonnement-spliiit"/><p>Vos amis s'abonnent à votre Spliiit.</p></li>
                 <li><img src="img/creditcard.png" alt="payer-par-cb"/><p>Vos amis sont débités chaque mois par CB.</p></li>
@@ -133,15 +135,15 @@
         </div>
         <div class="flex">
             <div class="left-tarif bloc-tarif bloc-white width50 from-left">
-                <h2 class="text-orange">5%</h2>
+                <h2 class="text-orange">4%</h2>
                 <h3>Virement sur votre Compte</h3>
-                <p>Notre commission est de 5%<br>lors d'un virement sur un compte bancaire.
+                <p>Notre commission est de 4%<br>lors d'un virement sur un compte bancaire.
                 </p>
             </div>
             <div class="right-tarif bloc-tarif bloc-white width50 from-right">
                 <h2 class="text-orange">0%</h2>
                 <h3>Don à une association</h3>
-                <p>Aucune commission et aucun minimum<br>lors d'un don à une association.</p>
+                <p>Aucune commission lors d'un achat chez un partenaire ou un don à une association.</p>
             </div>
         </div>
     </section>

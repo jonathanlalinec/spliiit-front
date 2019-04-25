@@ -22,11 +22,11 @@
         <ul class="width18">
             <h3>A propos</h3>
             <li><a href="aboutus">Qui sommes-nous ?</a></li>
-            <li>Jobs</li>
-            <li>Presse</li>
-            <li>Associations</li>
+            <li><a href="jobs">Jobs</a></li>
+            <li><a href="mailto:contact@spliiit.com?subject=Service Presse">Presse</a></li>
+            <li><a href="associations">Associations</a></li>
             <li><a href="blog">Le blog Spliiit</a></li>
-            <li>FAQ</li>
+            <li><a href="faq">FAQ</a></li>
         </ul>
         <ul class="width18">
         <h3>Légal</h3>
@@ -34,8 +34,8 @@
             <li><a href="legals">Mentions légales</a></li>
             <li><a href="privacy-policy">Confidentialité</a></li>
             <li><a href="tarifs">Tarifs</a></li>
-            <li>Sécurité</li>
-            <li>Nous contacter</li>
+            <li><a href="securite">Sécurité</a></li>
+            <li><a href="contact">Nous contacter</a></li>
         </ul>
         <ul class="ulblog">
         <h3>Le blog</h3>

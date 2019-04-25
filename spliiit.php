@@ -59,7 +59,7 @@
         <h1>Comment fonctionne Spliiit ?</h1>
         <div class="line-fonctionnement autopromo">
             <ul>
-                <li><img src="img/creer.png"/><p>Créez votre Spliiit en 3 clics gratuitement.</p></li>
+                <li><img src="img/creer.png"/><p>Créez votre Spliiit en 5 secondes gratuitement.</p></li>
                 <li><img src="img/partage.png"/><p></p>Partagez l'adresse de votre Spliiit à vos amis.</li>
                 <li><img src="img/inscription.png"/><p>Vos amis rejoignent votre Spliiit.</p></li>
                 <li><img src="img/creditcard.png"/><p>Chaque mois votre ami est débité par CB.</p></li>
