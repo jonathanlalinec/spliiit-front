@@ -1,5 +1,5 @@
 <nav class="header-page">
-            <div class="logo-nav"><img src="img/logo-icon.png" alt="Logo Spliiit Icone"/></div>
+            <div class="logo-nav"><a href="/"><img src="img/logo-icon.png" alt="Logo Spliiit Icone"/></a></div>
             <div class="btn-nav">
             <ul>
                 <li><a href="#fonctionnement">Comment ça marche</a></li>

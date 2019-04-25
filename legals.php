@@ -4,7 +4,6 @@
 
 <section class="mentions">
     <div class="container">
- <h1>Mentions Légales</h1>
         <p>Le document suivant fournit des données obligatoires concernant l'éditeur du site, ces obligations en matière de protection des données, ainsi que d'autres références juridiques importantes concernant le site Internet de Spliiit (www.spliiit.com) tel que requis par la loi.</p>
         <div class="bloc-white padding3050 margin50">    
         <h2>SPLIIIT</h2>

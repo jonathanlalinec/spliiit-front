@@ -4,7 +4,6 @@
 
 <section class="whoare">
     <div class="container">
- <h1>A propos de Spliiit</h1>
         <img src="img/whoare.png"/>
         <p><strong>Spliiit a été crée en 2019. C’est  l’idée de 3 potes : Stéphane, Brice et Jonathan.<br>
 </strong>Originaires de région Parisiennne, ils sont tous 3 complémentaires.</p>

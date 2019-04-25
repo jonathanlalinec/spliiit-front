@@ -4,7 +4,6 @@
 
 <section class="cgu">
     <div class="container">
-        <h1>Politique de confidentialité</h1>
         <p><strong>L'Éditeur : </strong>Spliiit SAS, 4 bis rue royer bendélé, 92230 Gennevilliers, FRANCE<br>
         <strong>Le site : </strong>www.spliiit.com<br>
         <strong>L'utilisateur : </strong>La personne utilisant le Site et les services.
