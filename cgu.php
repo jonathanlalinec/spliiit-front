@@ -1,0 +1,50 @@
+<?php $title = 'Conditions générales de vente et d\'utilisation'; ?>
+<?php include 'header.php';?>
+<?php include 'header-page.php';?>
+
+<section class="cgu">
+    <div class="container">
+        <h1>Conditions générales de vente et d'utilisation</h1>
+        <p>L'accès aux services proposés par Spliiit se fera uniquement sous la réserve de l'acceptation des conditions décrites ci-dessous que Spliiit est libre de modifier à tout moment et sans aucun préavis. L'utilisateur est invité à se référer régulièrement à la dernière version des présentes conditions disponibles en permanence à l'adresse suivante : https://www.spliiit.com/cgu La version française de ce document prévaut sur toutes les autres langues.
+</p>
+            <div class="bloc-white padding3050 margin50">    
+            <h2>Définitions</h2>   
+            <p>Dans ce texte "compte partagé", "compte(s)" et "spliiit" ont des significations équivalentes.</p>
+            <h2>Droits intellectuels</h2>
+            <p>Le concept de comptes partagés sur Internet, matérialisé ici sous le nom "spliiit" est protégé par les droits d'auteur. Le nom Spliiit ainsi que tous ses logos sont des marques déposées. Il n'est pas autorisé d'utiliser ces marques à des fins personnelles, quelles qu'elles soient. L'utilisateur de Spliiit s'engage à ne pas reproduire, copier, vendre, marchander ou céder tout ou partie des services de Spliiit, sous aucun prétexte. Il s'engage également à ne pas masquer ou modifier nos services (la marque Spliiit par exemple).</p>
+            <h2>Partie "Spliiit"</h2>
+            <p>Spliiit est un outil permettant de partager le prix d’un abonnement avec sa famille ou ses amis, par exemple lors d’une colocation partager les charges mensuels. Spliiit permet de choisir le nombre d’adhérents et le prix de l’abonnement afin de calculer ce que chacun doit. Spliiit est accessible en ligne sur le site internet www.spliiit.com. L'application Spliiit fonctionnant sur Facebook offre (en plus de celle disponible sur le site www.spliiit.com) la possibilité de lister des comptes, d'inviter des amis via Facebook à participer à ces comptes.</p>
+            <h2>Partie "gestion des abonnements"</h2>
+            <p>Pour effectuer un paiement par abonnement, Spliiit fait appel aux services de paiement de Paypal. En utilisant l’abonnement électronique proposé par Spliiit et donc le système de paiement Paypal, vous acceptez, en tant que payeur, que les Conditions Générales d'utilisation de Paypal soient d'application entre vous et Paypal. Les Conditions Générales d'utilisation de Paypal sont jointes aux présentes Conditions et font partie intégrante de celles-ci. Lorsqu'une personne effectue un paiement dans le cadre de la gestion des abonnements opérée par Spliiit, le propriétaire du Spliiit en sera avisée par mail. Chaque remboursement effectué transitera par un compte d'attente de Spliiit auprès de Paypal. Lorsque la personne atteint le montant minimum de 10 Euros sur sa cagnotte, Spliiit lui demandera le compte PayPal du propriétaire du Spliiit sur lequel l'ensemble de la cagnotte peut être versé.</p>
+            <h2>Cadre d'utilisation approprié</h2>
+            <p>Spliiit est adapté seulement pour une utilisation familiale, c'est-à-dire pour un usage entre des membres d'une même famille ou entre amis. Vous utiliserez donc Spliiit seulement parce que vous connaissez personnellement vos spliiiter (amis, famille, collègues) soient liées moralement ou contractuellement entre eux ou vous vivez sous le même toit.</p>
+            <h2>Frais</h2>
+                <p><strong>Bénéficiaires (Propriétaire du Spliiit)</strong><br>
+                Spliiit, facturera des frais au Bénéficiaire correspondant à la fourniture de tous les services qui lui sont fournis en application des présentes. Ils représentent un pourcentage du montant total mis à la disposition du Bénéficiaire, arrondi au centième de centime supérieur selon le cas. Ce pourcentage est indiqué à l’Utilisateur sur le Site à la page tarifs www.spliiit.com/tarifs. Ils pourront être modifiés à tout moment sur notification après le respect d’un préavis de deux mois.<br><br>Le Bénéficiaire est informé que, lorsqu’il réalise un achat de Produit auprès d’un Partenaire, ce dernier lui transfère un cash back directement affecté à la rémunération de l’Emetteur, du Distributeur et de Spliiit pour la fourniture de leurs prestations respectives au titre des présentes. En outre, l’Emetteur et le Distributeur pourront percevoir du Partenaire une commission d’apporteur d’affaires.<br><br>
+                Les frais sont réglés en Monnaie électronique au moment de la dépense de la Cagnotte par débit du montant de Monnaie électronique correspondant par l’Emetteur.<br><br>
+                <strong>Participants</strong><br>
+                La Participation peut être versée, par Paypal.<br>
+                Le montant en numéraire diminué des frais d’émission indiqués dans les conditions tarifaires www.spliiit.com/tarifs, versé par chaque Participant est collecté par le Distributeur en contrepartie d’unités de Monnaie électronique émises pour une valeur nominale équivalente et stockées sur la Cagnotte.
+                </p>
+                
+            <h2>Conditions d'accès</h2>
+                 <p>Comme utilisateur de Spliiit, vous devez à tout moment : fournir des données correctes à Spliiit ainsi qu'au groupe participant aux comptes ; toujours vérifier les informations vous concernant Comme utilisateur de Spliiit, vous vous engagez expressément à NE JAMAIS : véhiculer du contenu qui soit illégal, nuisible, menaçant, abusif, constitutif de harcèlement, diffamatoire, vulgaire, obscène, menaçant pour la vie privée d'autrui, haineux, raciste, ou autrement répréhensible ; véhiculer du contenu violant un brevet ou une marque déposée ; porter atteinte de façon quelconque à d'autres utilisateurs ; harceler de quelque manière que ce soit un autre ou plusieurs autres utilisateurs ; tenter de tromper ou d'induire en erreur d'autres utilisateurs ; utiliser Spliiit dans des chaînes d'emails (de type "hoax") ; entraver ou perturber intentionnellement nos services ; avoir une utilisation de Spliiit qui serait contraire à la loi Française ; violer, intentionnellement ou non, toute loi ou réglementation nationale ou internationale en vigueur et toutes autres règles ayant force de loi ; reproduire, copier, vendre, revendre, ou exploiter dans un but commercial quel qu'il soit toute partie ou utilisation de nos services, tout droit d'accès à nos services. Spliiit n'est en aucun cas responsable de l'exactitude ou de la précision des données rentrées par vous ou par vos amis sur Spliiit. Spliiit ne jouera pas les arbitres au sein de votre groupe et ne pourra être tenu responsable d’un refus de paiement ou une résiliation d’un ami. En aucun cas Spliiit ne pourra être tenu responsable de quelque nature que ce soit de dégâts directs ou indirects qui résulteraient : d'une utilisation inappropriée de ses services d'une utilisation jugée illégale ou frauduleuse de ses services de l'inexactitude des données sur un compte partagé (un spliiit) de résultats erronés fournis par ses services d'une indisponibilité temporaire ou durable de ses services d'une défaillance quelconque de ses services de toute cause en relation avec ses services.</p>
+            <h2>Avertissement</h2>
+                <p>Un spliiit (également appelé compte partagé) ne peut JAMAIS avoir une quelconque valeur contractuelle aux yeux des utilisateurs. Pour le bon fonctionnement de l'outil, il est important que ceux ayant accès à un même spliiit (amis, famille, collègues) soient liées moralement ou contractuellement entre eux. Un lien http chiffré permet d'accéder au spliiit. Ce lien est unique, ne peut pas être modifié. Ce lien donne un accès au spliiit en lecture. Il est important de ne jamais communiquer ce lien à des personnes autre que vos amis, familles… La probabilité de trouver ce lien "par hasard" est pratiquement nulle. Néanmoins, il n'est pas impossible à un étranger de se l’approprier. Vous comprenez que Spliiit ne peut être tenu responsable de l'utilisation que vous ou l'un des membres de votre groupe faites du lien vers un compte partagé.</p>
+            <h2>Suspension et interruption d'accès aux services</h2>
+                <p>Spliiit a le droit d'arrêter ses services (ou une partie d'entre eux) de manière provisoire ou durable, de les supprimer ou modifier ou d'en introduire de nouveaux sans préavis. Spliiit se réserve le droit (mais n'est pas obligé de le faire) de supprimer un spliiit ou de bannir un ou des utilisateur(s) sans aucune justification et sans aucun préavis.</p>
+            <h2>Suppression d'un spliiit</h2>
+                <p>La durée de vie d'un spliiit inactif et non partagé est de trois mois. Après ces 3 mois, les informations contenues sur le compte partagé pourraient être définitivement supprimées.</p>
+            <h2>Respect de la vie privée</h2>
+                <p>Une page dédiée concernant la politique de confidentialité est disponible à l’adresse www.spliiit.com/privacy-policy</p>
+            <h2>Tracking</h2>
+                <p>Spliiit utilise Google analytics dans chacune de ses pages. Cette technique permet à Spliiit de monitorer l'usage de son site et de repérer d'éventuels bugs ou problèmes.</p>
+            <h2>Loi applicable et juridiction compétente</h2>
+                <p>Les présentes conditions générales d'utilisation sont régies par la loi Française. Tout litige sera soumis à la compétence exclusive des tribunaux de Nanterre (France).</p>
+            <h2>Annexes</h2>
+                <p><a href="https://www.paypal.com/fr/webapps/mpp/ua/useragreement-full" target="_blank">Annexe 1 – Conditions Générales de Paypal</a></p>
+        </div>
+        </div>
+</section>
+<?php include 'popup-social.php';?>
+<?php include 'footer.php';?>
