@@ -858,7 +858,7 @@ li{
 .pour-qui{
     padding:0;
     text-align:center;
-    margin-bottom:150px;
+    margin-bottom:100px;
     position:relative;
     margin-top:100px;
 }
@@ -1701,6 +1701,9 @@ footer li:hover{
 .right-line-tarif{
     margin-left:30px;
 }
+.tarif-dons{
+    padding:50px 0 100px;
+}
 .cgu .bloc-white p{
     text-align:left;
     margin-bottom:30px;
@@ -2048,7 +2051,7 @@ footer li:hover{
 .from-right,
 .from-left {
     opacity: 0;
-    transition: transform 1s ease-in-out, opacity 0.5s ease-in-out;
+    transition: transform 0.5s ease-in-out, opacity 0.2s ease-in-out;
 }
 .from-right {
     transform: translate(50px,-30px);
