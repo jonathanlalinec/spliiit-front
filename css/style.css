@@ -125,7 +125,9 @@ nav{
     height:90px;
     line-height:90px;
     top:-90px;
+    margin-top:-180px;
     left:0;
+    padding-top:180px;
     opacity:0;
     z-index:9999;
         -webkit-transition-timing-function: ease-out;
@@ -153,7 +155,7 @@ nav ul li{
 .btn-nav{
     position:absolute;
     right:20px;
-    top:0;
+    top:180px;
     display:flex;
 }
 
