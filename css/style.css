@@ -2065,6 +2065,19 @@ footer li:hover{
 .bloc-tarif h3{
     margin:0 20px 20px;
 }
+.tarif-member .line-fonctionnement li span{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -25px;
+    width: 24px;
+    height: 24px;
+    margin-left: -12px;
+    border-left: 2px solid #23d3b7;
+    border-bottom: 2px solid #23d3b7;
+    -webkit-transform: rotate(-135deg);
+    transform: rotate(-135deg);
+}
 @media only screen and (max-width:1000px) {
     .suscribe-title h3{
         font-size:32px;
