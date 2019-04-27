@@ -55,7 +55,7 @@
                                 
                             </li>
                         </ul>
-                        <div id="social" class="btn-orange">Je crée mon Spliiit !</div>
+                        <div id="social" class="btn-orange">Je Spliiit !</div>
                     </div>
                 </div>
             </div>
