@@ -17,11 +17,10 @@
                 <img src="img/logo.png"/ alt="logo-spliiit">
             </div>
             <a href="myspliiit.php" class="btn-login">Se connecter</a>
-            <a href="myspliiit.php" class="btn-login-mobil"><img src="img/member.png" alt="connexion"/></a>
                 <div class="bloc-home">
                     <div class="accroche width50">
                         <h1>Partagez<br><span class="color-white">le gâteau !</span></h1>
-                        <h2>Spliiit, c'est la cagnotte en ligne qui vous permet de partager le prix d'un abonnement avec vos amis, votre famille...<strong>Le tout en un clin d'oeil et gratuitement !</strong></h2>
+                        <h2>Spliiit, c'est la cagnotte en ligne qui vous permet de partager le prix d'un abonnement avec vos proches.<br><strong>Le tout en un clin d'oeil et gratuitement !</strong></h2>
                         <img src="img/gateau.png" alt="partager-le-gateau"/>
                     </div>
                     <div class="width50 suscribe-right">
@@ -55,8 +54,8 @@
                             <li>
                                 
                             </li>
-                            <div id="social" class="btn-orange">Je Spliiit !</div>
                         </ul>
+                        <div id="social" class="btn-orange">Je crée mon Spliiit !</div>
                     </div>
                 </div>
             </div>
@@ -146,7 +145,7 @@
         <div class="anchor" id="tarifs"></div>
         <h1>Combien ça coûte ?</h1>
         <div class="line-pour-qui">
-            <p>La création d’un Spliiit est totalement gratuite.</p>
+            <p>La création d’un Spliiit est <strong>totalement gratuite</strong>.</p>
         </div>
         <div class="flex">
             <div class="left-tarif bloc-tarif bloc-white width50 from-left">
@@ -169,10 +168,10 @@
         <div class="container avantages">
         <h1>Nos avantages :</h1>
         <div class="line-pour-qui">
-            <p>Pourquoi choisir Spliiit plutôt qu'une banque classique ou une application de paiement bancaire ?</p>
+            <p>Pourquoi choisir Spliiit plutôt qu'une banque classique ou une application de paiement ?</p>
         </div>
             <div class="flex table-avantages">
-                <div class="col-bank">
+                <div class="col-bank bank-avantage">
                     <ul>
                         <li class="title-avantages"><h3>Un compte bancaire</h3></li>
                         <li><p><img src="img/down-avantages.png" alt="pas-bien"/><br>Montant dérisoire pour un virement bancaire</p></li>
@@ -180,7 +179,7 @@
                         <li><p><img src="img/down-avantages.png" alt="pas-bien"/><br>Devoir envoyer son RIB à chacun de ses amis</p></li>
                     </ul>
                 </div>
-                <div class="col-bank center-bank">
+                <div class="col-bank center-bank bank-avantage">
                     <ul>
                         <li class="title-avantages"><h3>Application<br>de paiement en ligne</h3></li>
                         <li><p><img src="img/top-avantages.png" alt="avantage-spliiit"/><br>Facilité de paiement</p></li>
@@ -189,7 +188,7 @@
                     </ul>
                 </div>
                 
-                <div class="col-bank bloc-white">
+                <div class="col-bank bloc-white spliiit-avantage">
                     <ul>
                         <li class="title-avantages"><h3 class="font-spliiit">Spliiit</h3></li>
                         <li><p><img src="img/top-avantages.png" alt="avantage-spliiit"/><br>Facilité de paiement par CB</p></li>
@@ -198,7 +197,7 @@
                     </ul>
                 </div>
             </div>
-            <div><a class="btn-orange" href="#home">Convaincu ? Je Spliiit !</a></div>
+            <div class="btn-convaincu"><a class="btn-orange" href="#home">Convaincu ? Je Spliiit !</a></div>
             </div>
     </section>
 <section class="paiements">

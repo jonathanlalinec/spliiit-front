@@ -50,9 +50,9 @@
     </div>
 </div>
 <div class="second-line-footer">
-    <img src="img/trustpilot.png" alt="logo Trustpilot png"/>
+    <img class="trustpilot-img" src="img/trustpilot.png" alt="logo Trustpilot png"/>
     <img src="img/french-tech.png" alt="logo Frenchtech png"/>
-    <img src="img/paypal-logo.png" alt="logo Paypal png"/>
+    <img class="paypal-img" src="img/paypal-logo.png" alt="logo Paypal png"/>
 
 </div>
 <div class="last-line-footer">
