@@ -133,17 +133,17 @@
             <p>La création d’un Spliiit est <strong>totalement gratuite</strong>.</p>
         </div>
         <div class="flex">
-            <div class="left-tarif bloc-tarif bloc-white width50 from-left">
+            <a href="tarifs" class="left-tarif bloc-tarif bloc-white width50 from-left">
                 <h2 class="text-orange">4%</h2>
                 <h3>Virement sur votre Compte</h3>
                 <p>Notre commission est de 4%<br>lors d'un virement sur un compte bancaire.
                 </p>
-            </div>
-            <div class="right-tarif bloc-tarif bloc-white width50 from-right">
+                </a>
+            <a href="tarifs" class="right-tarif bloc-tarif bloc-white width50 from-right">
                 <h2 class="text-orange">0%</h2>
                 <h3>Partenaires ou Don à une association</h3>
                 <p>Aucune commission lors d'un achat chez un partenaire ou un don à une association.</p>
-            </div>
+                </a>
         </div>
     </section>
         <section class="zone-avantages">
