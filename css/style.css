@@ -1373,7 +1373,7 @@ footer li:hover{
     transform: translateY(0);
 }
 .tarif-member .line-fonctionnement li{
-    width:33%;
+    width:20%;
     padding:0 30px;
     line-height: 24px;
     font-size: 18px;
