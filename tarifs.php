@@ -6,11 +6,11 @@
             <div class="container">
                 <div class="line-fonctionnement">
             <ul>
-                <li><img src="img/creer.png" alt="creer-un-spliiit"/><p><strong>Création</strong><br>du compte<br><strong class="free-tarif">gratuit</strong></p></li>
+                <li><img src="img/creer.png" alt="creer-un-spliiit"/><p>Ouverture du compte<br><strong class="free-tarif">gratuit</strong></p></li>
                 <li><span></span></li>
-                <li><img src="img/inscription.png" alt="abonnement-spliiit"/><p><strong>Création</strong><br>d'un spliiit<br><strong class="free-tarif">gratuit</strong></p></li>
+                <li><img src="img/inscription.png" alt="abonnement-spliiit"/><p>Création d'un spliiit<br><strong class="free-tarif">gratuit</strong></p></li>
                 <li><span></span></li>
-                <li><img src="img/creditcard.png" alt="payer-par-cb"/><p><strong>Participation</strong><br>des invités<br><strong class="free-tarif">0,10€ + 5%</strong></p></li>
+                <li><img src="img/creditcard.png" alt="payer-par-cb"/><p>Participation des invités<br><strong class="free-tarif">0,10€ + 5%</strong></p></li>
             </ul>
         </div>
             </div>

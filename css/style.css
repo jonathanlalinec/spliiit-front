@@ -1411,7 +1411,7 @@ footer li:hover{
     position: absolute;
     top: 50%;
     left: 50%;
-    margin-top: 9px;
+    margin-top: 14px;
     width: 15px;
     height: 15px;
     margin-left: -8px;
@@ -1445,6 +1445,7 @@ footer li:hover{
 }
 .line-fonctionnement li img{
     width:100px;
+    margin-bottom:10px;
 }
 .create-spliiit{
     margin: 0 auto;
