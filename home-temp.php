@@ -66,11 +66,15 @@
         <h1>Comment ça marche ?</h1>
         <div class="line-fonctionnement">
             <ul>
-                <li><img src="img/creer.png" alt="creer-un-spliiit"/><p>Créez votre Spliiit en 5 secondes gratuitement.</p></li>
-                <li><img src="img/partage.png" alt="partager-l-adresse"/><p>Partagez l'adresse de votre Spliiit à vos amis.</p></li>
-                <li><img src="img/inscription.png" alt="abonnement-spliiit"/><p>Vos amis s'abonnent à votre Spliiit.</p></li>
-                <li><img src="img/creditcard.png" alt="payer-par-cb"/><p>Vos amis sont débités chaque mois par CB.</p></li>
-                <li><img src="img/recuperer.png" alt="cagnotte-virement"/><p>Enfin demandez à tout moment votre cagnotte !</p></li>
+                <li><img src="img/creer.png" alt="creer-un-spliiit"/><p><strong>Créez</strong><br>Ouvrez votre Spliiit en 5 secondes gratuitement.</p></li>
+                <li class="li-flech"><span></span></li>
+                <li><img src="img/partage.png" alt="partager-l-adresse"/><p><strong>Invitez</strong><br>Partagez l'adresse de votre Spliiit à vos amis.</p></li>
+                <li class="li-flech"><span></span></li>
+                <li><img src="img/inscription.png" alt="abonnement-spliiit"/><p><strong>Spliiitez</strong><br>Vos amis s'abonnent à votre Spliiit.</p></li>
+                <li class="li-flech"><span></span></li>
+                <li><img src="img/creditcard.png" alt="payer-par-cb"/><p><strong>Collectez</strong><br>Vos amis sont débités chaque mois par CB.</p></li>
+                <li class="li-flech"><span></span></li>
+                <li><img src="img/recuperer.png" alt="cagnotte-virement"/><p><strong>Utilisez</strong><br>Enfin demandez à tout moment votre cagnotte !</p></li>
             </ul>
         </div>
     </section>

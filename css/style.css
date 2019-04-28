@@ -1393,8 +1393,8 @@ footer li:hover{
     margin:30px 0;
 }
 .line-fonctionnement li{
-    width:20%;
-    padding:30px;
+    width:16%;
+    padding:30px 15px;
     -webkit-transition-timing-function: ease-out;
     transition-timing-function: ease-out;
     -webkit-transition-duration: 0.15s;
@@ -1402,6 +1402,23 @@ footer li:hover{
     -webkit-transform: translateY(0);
     -ms-transform: translateY(0);
     transform: translateY(0);
+}
+.line-fonctionnement .li-flech{
+    width: 4%;
+    padding:0;
+}
+.line-fonctionnement li span{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: 9px;
+    width: 15px;
+    height: 15px;
+    margin-left: -8px;
+    border-left: 2px solid #23d3b7;
+    border-bottom: 2px solid #23d3b7;
+    -webkit-transform: rotate(-135deg);
+    transform: rotate(-135deg);
 }
 .tarif-member .line-fonctionnement li{
     width:20%;
@@ -1728,6 +1745,15 @@ footer li:hover{
 }
 .line-tarif{
     display: flex;
+}
+.line-fonctionnement p{
+    font-weight: 300;
+    margin: 10px 0;
+    line-height: 22px;
+}
+.line-fonctionnement strong{
+    font-size: 24px;
+    line-height: 50px;
 }
 .left-line-tarif{
     margin-right:50px;
