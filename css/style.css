@@ -938,6 +938,38 @@ li{
 }
 .bloc-cagnotte .btn-orange{
 }
+.intro-asso p{
+    padding:0 0 120px;
+}
+.divTable{
+	display: table;
+    margin-top:20px;
+}
+.divTableRow {
+	display: table-row;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+}
+.divTableCell, .divTableHead {
+	display: table-cell;
+    text-align: center;
+    padding-right:50px;
+}
+.divTableHeading {
+	background-color: #EEE;
+	display: table-header-group;
+	font-weight: bold;
+}
+.divTableFoot {
+	background-color: #EEE;
+	display: table-footer-group;
+	font-weight: bold;
+}
+.divTableBody {
+	display: table-row-group;
+}
 .btn-orange{
     background:#d83a4e;
     color:#FFF;
@@ -1698,13 +1730,16 @@ footer li:hover{
     display: flex;
 }
 .left-line-tarif{
-    margin-right:30px;
+    margin-right:50px;
 }
 .right-line-tarif{
-    margin-left:30px;
+    margin-left:50px;
 }
 .tarif-dons{
     padding:50px 0 100px;
+}
+.dons-list{
+    padding:0 0 80px;
 }
 .cgu .bloc-white p{
     text-align:left;
@@ -1715,14 +1750,24 @@ footer li:hover{
     margin-bottom:0;
     text-transform:uppercase;
 }
-.tarif-partner, .tarif-dons, .tarif-virement{
+.tarif-partner, .tarif-dons, .tarif-virement, .dons-list{
     position:relative;
     text-align: left;
+}
+.dons-list img{
+    width:400px;
+}
+.tarif-partner h2, .tarif-dons h2, .tarif-virement h2{
+    font-size: 28px;
+    line-height: 32px;
+    color:#2a2440;
+    padding-top: 70px;
+    margin-bottom: 10px;
 }
 .tarif-partner img, .tarif-dons img, .tarif-virement img{
     width:500px;
 }
-.tarif-partner h2, .tarif-dons h2, .tarif-virement h2{
+.tarif-partner h2, .tarif-dons h2, .tarif-virement h2, .dons-list h2{
     font-size: 28px;
     line-height: 32px;
     color:#2a2440;

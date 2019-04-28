@@ -34,7 +34,7 @@
             <div class="width50 right-line-tarif">
                 <h2>Faire un don</h2>
                 <h3>Gratuit</h3>
-                <p>Transformez votre cagnotte en carte cadeau sur les sites de nos partenaires. Aucun frais n’est appliqué sur le montant dépensé.</p>
+                <p>Faire don de votre cagnotte auprès de <a href="associations">l'association de votre choix</a>, ne vous coûtera bien entendu aucune commission.</p>
             </div>
             </div>
         </section>
@@ -43,8 +43,22 @@
             <div class="container line-tarif">
             <div class="width50 left-line-tarif">
                 <h2>Faire un virement</h2>
-                <h3>Gratuit</h3>
-                <p>Transformez votre cagnotte en carte cadeau sur les sites de nos partenaires. Aucun frais n’est appliqué sur le montant dépensé.</p>
+                <p>En cas de demande de virement bancaire, une petite commission sera prélevée selon le barème suivant :
+                </p>
+                <div class="divTable">
+                <div class="divTableBody">
+                <div class="divTableRow">
+                <div class="divTableCell"><h3>10%</h3></div>
+                <div class="divTableCell"><h3>7%</h3></div>
+                <div class="divTableCell"><h3>4%</h3></div>
+                </div>
+                <div class="divTableRow">
+                <div class="divTableCell">20 à 59€</div>
+                <div class="divTableCell">60 à 99€</div>
+                <div class="divTableCell">100€ et plus</div>
+                </div>
+                </div>
+                </div>
             </div>
             <div class="width50"><img class="from-right" src="img/coralie.png" alt="partage-licence-logiciel"/></div>
             </div>

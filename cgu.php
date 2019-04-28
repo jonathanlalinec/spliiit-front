@@ -23,7 +23,7 @@
                 Les frais sont réglés en Monnaie électronique au moment de la dépense de la Cagnotte par débit du montant de Monnaie électronique correspondant par l’Emetteur.<br><br>
                 <strong>Participants</strong><br>
                 La Participation peut être versée, par Paypal.<br>
-                Le montant en numéraire diminué des frais d’émission indiqués dans les conditions tarifaires www.spliiit.com/tarifs, versé par chaque Participant est collecté par le Distributeur en contrepartie d’unités de Monnaie électronique émises pour une valeur nominale équivalente et stockées sur la Cagnotte.
+                Le montant en numéraire diminué des frais d’émission indiqués dans les conditions tarifaires www.spliiit.com/tarifs, versé par chaque Participant est collecté par le Distributeur en contrepartie d’unités de Monnaie électronique émises pour une valeur nominale équivalente et stockées sur la Cagnotte. Ces frais, nous les reversons à nos partenaires bancaires et à nos solutions de sécurisation.
                 </p>
                 
             <h2>Conditions d'accès</h2>
