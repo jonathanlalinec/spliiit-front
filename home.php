@@ -62,7 +62,7 @@
         </div>
         <div id="scroll"><a href="#fonctionnement"><span></span></a></div>
         <nav>
-            <div class="logo-nav"><img src="img/logo-icon.png" alt="Logo Spliiit Icone"/></div>
+             <a href="#"><div class="logo-nav"><img src="img/logo-icon.png" alt="Logo Spliiit Icone"/></div></a>
             <div class="btn-nav">
             <ul>
                 <li><a href="#fonctionnement">Comment ça marche</a></li>
