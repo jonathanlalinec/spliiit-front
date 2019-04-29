@@ -2,11 +2,8 @@
             <div class="logo-nav"><a href="/"><img src="img/logo-icon.png" alt="Logo Spliiit Icone"/></a></div>
             <div class="btn-nav">
             <ul>
-                <li><a href="#fonctionnement">Comment ça marche</a></li>
-                <li><a href="#pourqui">Pour qui ?</a></li>
-                <li><a href="#dons">Dons</a></li>
-                <li><a href="#tarifs">Tarifs</a></li>
-                <li><a href="#avantages">Avantages</a></li>
+                <li><a href="tarifs">Tarifs</a></li>
+                <li><a href="associations">Associations</a></li>
             </ul>
             <a class="btn-login btn-blue">Se connecter</a>
             <a href="#" class="btn-orange">Créer mon Spliiit</a>
