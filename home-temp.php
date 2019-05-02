@@ -124,6 +124,7 @@
         <h2>Pour la bonne cause !</h2>
             <h3>Et si ces revenus additionnels pouvaient êtres utiles ?</h3>
             <p>Spliiit vous propose de transformer vos gains en dons auprès d’une association sans aucune commission et sans minimum.</p>
+            <a href="associations.php" class="btn-white" title="Liste des associations">Voir les associations</a>
         </div>
         <div class="width50">
         <img src="img/dons.png" alt="faire-un-don" class="from-right"/>
