@@ -1429,6 +1429,10 @@ footer li:hover{
 .tarif-member .line-fonctionnement{
     margin-bottom:120px;
 }
+.intro-asso img{
+    width:250px;
+    margin-bottom:10px;
+}
 .free-tarif{
     text-transform: uppercase;
     color:#d83a4e;

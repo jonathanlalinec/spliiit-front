@@ -23,13 +23,13 @@
                 <h3>Gratuit</h3>
                 <p>Transformez votre cagnotte en carte cadeau sur les sites de nos partenaires. Aucun frais n’est appliqué sur le montant dépensé.</p>
             </div>
-            <div class="width50"><img class="from-right" src="img/coralie.png" alt="partage-licence-logiciel"/></div>
+            <div class="width50"><img class="from-right" src="img/partenaire-tarif.png" alt="Partenaires Tarif"/></div>
             </div>
         </section>
         <section class="tarif-dons">
             <div class="container line-tarif">
             <div class="width50">
-                <img class="from-left" src="img/coralie.png" alt="partage-licence-logiciel"/>
+                <img class="from-left" src="img/don-tarif.png" alt="Dons Tarif"/>
             </div>
             <div class="width50 right-line-tarif">
                 <h2>Faire un don</h2>
@@ -60,7 +60,7 @@
                 </div>
                 </div>
             </div>
-            <div class="width50"><img class="from-right" src="img/coralie.png" alt="partage-licence-logiciel"/></div>
+            <div class="width50"><img class="from-right" src="img/virement-tarif.png" alt="Virement Tarif"/></div>
             </div>
         </section>
 </section>

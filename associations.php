@@ -3,7 +3,8 @@
 <?php include 'header-page.php';?>
 <section class="mentions">
         <section class="intro-asso">
-          <p>Spliiit vous permet de transformer votre cagnotte en don auprès des associations.<br>Nous avons sélectionnés 5 associations à choisir lors de votre don.<br>N'hésitez pas à nous faire part de vos remarques si vous souhaitez que nous ajoutions une nouvelle association.</p>
+            <img src="img/association-coeur.png" alt="Dons à des associations"/>
+          <p><strong>Spliiit vous permet de transformer votre cagnotte en don auprès des associations.</strong><br>Nous avons sélectionnés 5 associations à choisir lors de votre don.<br>N'hésitez pas à nous faire part de vos remarques si vous souhaitez que nous ajoutions une nouvelle association.</p>
         </section>
         <section class="dons-list">
             <div class="bg-rotate grey-background"></div>
