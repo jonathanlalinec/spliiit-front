@@ -23,7 +23,7 @@
             <h3>A propos</h3>
             <li><a href="aboutus">Qui sommes-nous ?</a></li>
             <li><a href="jobs">Jobs</a></li>
-            <li><a href="mailto:contact@spliiit.com?subject=Service Presse">Presse</a></li>
+            <li><a href="https://web.babbler.fr/newsroom/7402-spliiit#/" target="_blank">Presse</a></li>
             <li><a href="associations">Associations</a></li>
             <li><a href="blog">Le blog Spliiit</a></li>
             <li><a href="faq">FAQ</a></li>

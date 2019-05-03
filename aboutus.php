@@ -19,7 +19,7 @@
             <h3>Brice<br><strong>Vincent</strong></h3>
             <p>Brice à commencé en tant que Webdesigner au sein de la première société de Jonathan en 2007, avec un Master de Communication visuelle et design numérique. Par la suite il rejoint comme directeur artistique la société Adverline (Rachetée par le groupe Laposte) où il s'occupera notamment des projets tels que Societe.com, Annuaire.com, Optelo… Il rejoint ensuite UMCgroup en tant que directeur artistique.</p>
             <div class="link-linkedin">
-            <a href="https://www.linkedin.com/in/jonathanlalinec/" target="_blank"><img src="img/linkedin-team.png"/ alt="Logo LinkedIn"></a>
+            <a href="https://www.linkedin.com/in/brice-vincent-00628967/" target="_blank"><img src="img/linkedin-team.png"/ alt="Logo LinkedIn"></a>
             </div>
         </div>
         <div class="bloc-white founder-profil center-founder">
@@ -35,7 +35,7 @@
             <h3>Stéphane<br><strong>Phung</strong></h3>
             <p>Diplomé d’un BTS informatique de gestion, Stéphane a travaillé pour plusieurs SSII pendant une dizaine d'années et pour de grands groupes tels que GDF Suez ou BNP Paribas, en tant que Service Delivery Manager. Son intérêt pour le digital le pousse ensuite à se tourner vers la communication et les stratégies du web marketing. Il se forme ainsi au sein d'UMCgroup durant 2 ans sur la stratégie d'acquisition des réseaux sociaux.</p>
             <div class="link-linkedin">
-            <a href="https://www.linkedin.com/in/jonathanlalinec/" target="_blank"><img src="img/linkedin-team.png"/ alt="Logo LinkedIn"></a>
+            <a href="https://www.linkedin.com/in/st%C3%A9phane-phung-08056a185/" target="_blank"><img src="img/linkedin-team.png"/ alt="Logo LinkedIn"></a>
             </div>
         </div>
         </div>

@@ -1,10 +1,11 @@
 <?php $title = 'Les associations'; ?>
 <?php include 'header.php';?>
 <?php include 'header-page.php';?>
-<section class="mentions">
         <section class="intro-asso">
+            <div class="container">
             <img src="img/association-coeur.png" alt="Dons à des associations"/>
           <p><strong>Spliiit vous permet de transformer votre cagnotte en don auprès des associations.</strong><br>Nous avons sélectionnés 5 associations à choisir lors de votre don.<br>N'hésitez pas à nous faire part de vos remarques si vous souhaitez que nous ajoutions une nouvelle association.</p>
+            </div>
         </section>
         <section class="dons-list">
             <div class="bg-rotate grey-background"></div>
@@ -58,6 +59,5 @@
             <div class="width40"><img class="from-right" src="img/logo-handicap.png" alt="Logo Handicap International"/></div>
             </div>
         </section>
-</section>
 <?php include 'popup-social.php';?>
 <?php include 'footer.php';?>
