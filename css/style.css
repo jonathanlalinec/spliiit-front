@@ -989,7 +989,7 @@ li{
     transition-timing-function: ease-out;
     -webkit-transition-duration: 0.2s;
     transition-duration: 0.2s;
-}:
+}
 .btn-orange{
     background:#d83a4e;
     color:#FFF;
@@ -1718,7 +1718,7 @@ footer li:hover{
     margin-top: -6px;
 }
 .height-page{
-    height: 420px;
+    height: 500px;
     margin-top: 0px;
 }
 .title-other-page{
@@ -1726,7 +1726,16 @@ footer li:hover{
     position: absolute;
     width: 100%;
     z-index:1;
-    top:120px;
+    top:140px;
+}
+.founder h2{
+    text-align:center;
+    font-size:42px;
+    margin-bottom:0;
+}
+.founder h3{
+    font-size:24px;
+    font-weight: 300;
 }
 .title-other-page h1{
     color:#FFF;
@@ -1747,6 +1756,32 @@ footer li:hover{
 }
 .cgu li{
     list-style: disc;
+}
+.link-linkedin img{
+    width:50px;
+}
+.link-linkedin{
+    margin-top:30px;
+}
+.founder-profil{
+    width:33%;
+    padding:30px;
+    margin:150px 0;
+}
+.founder-profil p{
+    line-height: 22px;
+    text-align: justify;
+    font-size:14px;
+}
+.profil-founder{
+    width: 180px;
+    border-radius: 50%;
+    margin-top: -125px;
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .26);
+    border: 5px solid #FFF;
+}
+.center-founder{
+    margin:150px 30px;
 }
 
 .mentions, .whoare, .cgu{
@@ -2070,9 +2105,22 @@ footer li:hover{
 }
 .line-dons h3{
     color:#FFF;
-    font-size: 20px;
     margin-top:0;
     margin-bottom:10px;
+}
+.team img{
+    width:100%;
+}
+.team{
+    text-align:center;
+    padding-top: 130px;
+}
+.team p{
+    margin:0;
+}
+.founder{
+    margin-top:150px;
+    position:relative;
 }
 .zone-personna{
 }
