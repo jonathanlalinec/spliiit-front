@@ -1,5 +1,6 @@
 <nav class="header-page">
             <div class="logo-nav"><a href="/"><img src="img/logo-icon.png" alt="Logo Spliiit Icone"/></a></div>
+            <p class="accroche-header">L'abonnement collaboratif</p>
             <div class="btn-nav">
             <ul>
                 <li><a href="tarifs">Tarifs</a></li>

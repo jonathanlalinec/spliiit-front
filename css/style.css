@@ -1787,18 +1787,56 @@ footer li:hover{
 .center-founder{
     margin:150px 30px;
 }
-
-.mentions, .whoare, .cgu{
+.intro-jobs img{
+    width:100%;
+}
+.intro-jobs{
+    text-align:center;
+    padding-bottom:150px;
+}
+.intro-jobs h2{
+    padding-top: 50px;
+    margin-bottom: 0;
+}
+.intro-jobs p{
+    margin:5px 0 0;
+}
+.jobs-spontanne{
+    text-align:center;
+    position:relative;
+}
+.jobs-spontanne h2{
+    padding-top:30px;
+    color:#d83a4e;
+}
+.line-job-contact{
+    padding-bottom: 35px;
+    margin-bottom: 100px;
+}
+.jobs-spontanne p{
+    padding-bottom:50px;
+    line-height:24px;
+}
+.jobs{
+    padding-top:270px;
+}
+.security .paiements{
+    padding:50px 0;
+}
+.security .mode-paiements{
+    margin-bottom:0;
+}
+.mentions, .whoare, .cgu, .security, .contact, .faq{
     text-align:center;
     line-height:30px;
     padding-top:490px;
     margin-bottom:100px;
 }
-.mentions h1, .whoare h1, .page404 h1, .cgu h1{
+.mentions h1, .whoare h1, .page404 h1, .cgu h1, .jobs h1, .security h1{
     font-size:42px;
     line-height:44px;
 }
-.mentions h2, .whoare h2, .page404 h2, .cgu h2{
+.mentions h2, .whoare h2, .page404 h2, .cgu h2, .security h2{
     color:#d83a4e;
 }
 .tarif-partner h3, .tarif-dons h3, .tarif-virement h3{
@@ -2153,6 +2191,15 @@ footer li:hover{
 }
 .zone-avantages .bg-rotate{
     z-index:1;
+}
+.accroche-header{
+    padding-left: 10px;
+    border-left: 1px solid #edf1f4;
+    float: left;
+    line-height: 30px;
+    margin: 30px 0 0 81px;
+    font-size: 16px;
+    font-weight: 700;
 }
 .tarifs{
     text-align:center;

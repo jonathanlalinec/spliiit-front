@@ -2,36 +2,21 @@
 <?php include 'header.php';?>
 <?php include 'header-page.php';?>
 
-<section class="mentions">
-        <section class="tarif-member">
+<section class="jobs">
+        <section class="intro-jobs">
             <div class="container">
+                <img src="img/jobs.png" alt="Rejoindre l'équipe"/>
+                <h2>Aucune offre d'emploi en ce moment</h2>
+                <p>L'équipe de Spliiit semble être au complet :-), mais...</p>
             </div>
         </section>
-        <section class="tarif-partner">
+        <section class="jobs-spontanne">
             <div class="bg-rotate grey-background"></div>
             <div class="container">
-            <div class="width50">
-                <h2>Dépensez chez nos partenaires</h2>
-            </div>
-            <div class="width50"></div>
-            </div>
-        </section>
-        <section class="tarif-dons">
-            <div class="container">
-            <div class="width50">
-            </div>
-            <div class="width50">
-                <h2>Faire un don</h2>
-            </div>
-            </div>
-        </section>
-        <section class="tarif-virement">
-            <div class="bg-rotate grey-background"></div>
-            <div class="container">
-            <div class="width50">
-                <h2>Faire un virement</h2>
-            </div>
-            <div class="width50"></div>
+                <h2>Candidature spontannée</h2>
+                <p><strong>Votre profil n'est pas dans les offres d'emploi ci-dessus ?</strong><br>
+                Si vous pensez que votre candidature peut être un atout pour Spliiit,<br>nous sommes toujours ouvert pour vous rencontrez et lire attentivement chaques demandes !<br><br>Alors n'hésitez pas à nous contacter !</p>
+                <div class="line-job-contact"><a href="contact" class="btn-orange">Nous contacter</a></div>
             </div>
         </section>
 </section>
