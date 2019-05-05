@@ -940,6 +940,7 @@ li{
 }
 .intro-asso p{
     padding:0 0 120px;
+    line-height:24px;
 }
 .divTable{
 	display: table;
@@ -1435,8 +1436,8 @@ footer li:hover{
     width: 15px;
     height: 15px;
     margin-left: -8px;
-    border-left: 2px solid #23d3b7;
-    border-bottom: 2px solid #23d3b7;
+    border-left: 2px solid #dfe6e7;
+    border-bottom: 2px solid #dfe6e7;
     -webkit-transform: rotate(-135deg);
     transform: rotate(-135deg);
 }
@@ -1848,10 +1849,12 @@ footer li:hover{
 .line-tarif{
     display: flex;
 }
+.line-tarif p{
+    line-height:24px;
+}
 .line-fonctionnement p{
-    font-weight: 300;
     margin: 10px 0;
-    line-height: 22px;
+    line-height: 24px;
 }
 .line-fonctionnement strong{
     font-size: 24px;
@@ -2066,9 +2069,8 @@ footer li:hover{
 }
 .personna{
 }
-.personna p, .marche-list p{
-    line-height: 22px;
-    font-weight: 300;
+.personna p, .marche-list p, .dons-list p{
+    line-height: 24px;
     margin:0 40px;
 }
 .input-right{
@@ -2077,11 +2079,17 @@ footer li:hover{
 .input-left{
     margin-right:15px;
 }
-.personna h2, .marche-list h2{
+.personna h2, .marche-list h2, .dons-list h2{
     text-align:left;
     font-weight:700;
     font-size:32px;
     margin:110px 40px 30px;
+}
+.dons-list h2{
+    margin-top:30px;
+}
+.marche-list h2{
+    margin-top:130px;
 }
 .zone-dons{
     height:340px;
@@ -2097,7 +2105,7 @@ footer li:hover{
     width:100%;
 }
 .intro-comment h2{
-    font-size:24px;
+    font-size:28px;
     font-weight:300;
     margin:50px 0 150px;
 }
@@ -2122,7 +2130,6 @@ footer li:hover{
     margin-top:30px;
 }
 .pour-qui p, .tarifs p, .avantages p, .marche-list p{
-    font-weight: 300;
     line-height: 24px;
 }
 .explain-cb{
@@ -2276,6 +2283,9 @@ footer li:hover{
 .bloc-tarif h3{
     margin:0 20px 20px;
 }
+.marche-list{
+    margin-bottom:100px;
+}
 .tarif-member .line-fonctionnement li span{
     position: absolute;
     top: 50%;
@@ -2284,8 +2294,8 @@ footer li:hover{
     width: 24px;
     height: 24px;
     margin-left: -12px;
-    border-left: 2px solid #23d3b7;
-    border-bottom: 2px solid #23d3b7;
+    border-left: 2px solid #dfe6e7;
+    border-bottom: 2px solid #dfe6e7;
     -webkit-transform: rotate(-135deg);
     transform: rotate(-135deg);
 }
