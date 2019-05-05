@@ -24,7 +24,7 @@
             </div>
             <div class="width50 right-line-tarif">
                 <h2 class="text-orange">2. Invitez !</h2>
-                <p>Désormais, envoyez les invitations à vos proches sur les réseaux sociaux, par SMS, par mail... En expliquant pour quel service le Spliiit est destiné.</p>
+                <p>Envoyez les invitations à vos proches sur les réseaux sociaux, par SMS, par mail... En expliquant pour quel service le Spliiit est destiné.</p>
             </div>
             </div>
         </section>
@@ -33,7 +33,7 @@
             <div class="container line-tarif">
             <div class="width50 left-line-tarif">
                 <h2 class="text-orange">3. Spliiitez !</h2>
-                <p>Vos proches ont reçu une invitation, ils n'ont plus qu'à s'inscrire sur votre Spliiit et payer de manière sécurisé par carte bancaire ou Paypal.</p>
+                <p>Vos proches ont reçu une invitation ? Ils n'ont plus qu'à s'inscrire sur votre Spliiit et payer de manière sécurisée par carte bancaire ou Paypal.</p>
             </div>
             <div class="width50"><img class="from-right" src="img/creez.png" alt="Logo Téléthon"/></div>
             </div>
@@ -45,7 +45,7 @@
             </div>
             <div class="width50 right-line-tarif">
                 <h2 class="text-orange">4. Collectez !</h2>
-                <p>Chaque mois vos proches sont débités et votre cagnotte cumule les participations de manière automatisé et instantanné.</p>
+                <p>Chaque mois vos proches sont débités et votre cagnotte cumule les participations de manière automatisée et instantanée.</p>
             </div>
             </div>
         </section>
@@ -54,7 +54,7 @@
             <div class="container line-tarif">
             <div class="width50 left-line-tarif">
                 <h2 class="text-orange">5. Utilisez !</h2>
-                <p>Vous souhaitez utiliser votre cagnotte, rien de plus simple, il suffit de sélectionner par quel moyen : virement bancaire, chèque cadeau ou don.</p>
+                <p>Vous souhaitez utiliser votre cagnotte ? Rien de plus simple. Vous avez le choix entre 3 options : virement bancaire, chèque cadeau ou don.</p>
             </div>
             <div class="width50"><img class="from-right" src="img/partenaire-tarif.png" alt="Logo Handicap International"/></div>
             </div>

@@ -15,7 +15,7 @@
             <div class="container">
                 <h2>Candidature spontannée</h2>
                 <p><strong>Votre profil n'est pas dans les offres d'emploi ci-dessus ?</strong><br>
-                Si vous pensez que votre candidature peut être un atout pour Spliiit,<br>nous sommes toujours ouvert pour vous rencontrez et lire attentivement chaques demandes !<br><br>Alors n'hésitez pas à nous contacter !</p>
+                Si vous pensez que votre candidature peut être un atout pour Spliiit,<br>nous sommes toujours ouvert pour vous rencontrez et lire attentivement chaque demande !<br><br>Alors n'hésitez pas à nous contacter !</p>
                 <div class="line-job-contact"><a href="contact" class="btn-orange">Nous contacter</a></div>
             </div>
         </section>
