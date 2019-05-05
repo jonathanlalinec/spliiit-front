@@ -3,8 +3,9 @@
             <p class="accroche-header">L'abonnement collaboratif</p>
             <div class="btn-nav">
             <ul>
-                <li><a href="tarifs">Tarifs</a></li>
+                <li><a href="comment-ca-marche">Comment ça marche ?</a></li>
                 <li><a href="associations">Associations</a></li>
+                <li><a href="tarifs">Tarifs</a></li>
             </ul>
             <a class="btn-login btn-blue">Se connecter</a>
             <a href="#" class="btn-orange">Créer mon Spliiit</a>
@@ -13,6 +14,7 @@
 <header id="home">
     <div class="title-other-page">
         <h1><?php if(isset($title)): ?><?php echo $title ?><?php else: ?>Sans titre<?php endif ?></h1>
+        <div class="divider"></div>
     </div>
         <div class="bg-rotate height-page">
             <div class="waveWrapper waveAnimation">

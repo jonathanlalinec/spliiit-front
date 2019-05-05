@@ -857,6 +857,9 @@ li{
     text-align:center;
     position:relative;
 }
+.width5{
+    width:5%!important;
+}
 .pour-qui{
     padding:0;
     text-align:center;
@@ -1414,6 +1417,13 @@ footer li:hover{
     text-align:center;
     margin:30px 0;
 }
+.divider {
+    width: 100px;
+    height: 2px;
+    background-color: #fff;
+    margin: 10px auto;
+    border-radius: 1.5px;
+}
 .line-fonctionnement li{
     width:16%;
     padding:30px 15px;
@@ -1443,8 +1453,8 @@ footer li:hover{
     transform: rotate(-135deg);
 }
 .tarif-member .line-fonctionnement li{
-    width:20%;
-    padding:0 30px;
+    width:30%;
+    padding:0;
     line-height: 24px;
     font-size: 18px;
 }
@@ -1720,7 +1730,7 @@ footer li:hover{
     margin-top: -6px;
 }
 .height-page{
-    height: 500px;
+    height: 470px;
     margin-top: 0px;
 }
 .title-other-page{
@@ -1742,6 +1752,7 @@ footer li:hover{
 .title-other-page h1{
     color:#FFF;
     font-size:42px;
+    margin-bottom:0;
 }
 .padding3050{
     padding:30px 50px;
@@ -1831,7 +1842,7 @@ footer li:hover{
 .mentions, .whoare, .cgu, .security, .contact, .faq{
     text-align:center;
     line-height:30px;
-    padding-top:490px;
+    padding-top:460px;
     margin-bottom:100px;
 }
 .mentions h1, .whoare h1, .page404 h1, .cgu h1, .jobs h1, .security h1{
@@ -2217,11 +2228,11 @@ footer li:hover{
 }
 .accroche-header{
     padding-left: 10px;
-    border-left: 1px solid #edf1f4;
+    border-left: 2px solid #edf1f4;
     float: left;
     line-height: 30px;
     margin: 30px 0 0 81px;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 700;
 }
 .tarifs{
