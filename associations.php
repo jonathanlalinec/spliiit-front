@@ -40,7 +40,7 @@
         </section>
                 <section class="dons-list">
             <div class="container line-tarif">
-            <div class="width50">
+            <div class="width40">
                 <img class="from-left" src="img/logo-wwf.png" alt="Logo WWF"/>
             </div>
             <div class="width60 right-line-tarif">
