@@ -8,7 +8,7 @@
                 <li><a href="tarifs">Tarifs</a></li>
             </ul>
             <a class="btn-login btn-blue">Se connecter</a>
-            <a href="#" class="btn-orange">Créer mon Spliiit</a>
+            <a href="/" class="btn-orange">Créer mon Spliiit</a>
             </div>
 </nav>
 <header id="home">

@@ -1,26 +1,21 @@
 <?php $title = 'Comment ça marche ?'; ?>
 <?php include 'header.php';?>
 <?php include 'header-page.php';?>
-        <section class="intro-comment">
-            <div class="container">
-            <img src="img/comment-ca-marche.png" alt="Comment ça marche, suivez le guide !"/>
-          <h2><strong>La création d'un Spliiit est simple, rapide et gratuite.</strong><br>Suivez le guide !</h2>
-            </div>
-        </section>
-        <section class="marche-list">
-            <div class="bg-rotate grey-background"></div>
+       <section class="comment-ca-marche">
+<section class="marche-list" id="creez">
             <div class="container line-tarif">
             <div class="width50 left-line-tarif">
                 <h2 class="text-orange">1. Créez !</h2>
                 <p>Indiquez le montant de votre abonnement et le nombre de personnes avec qui le partager. Enfin inscrivez-vous avec Facebook, Google ou Twitter.</p>
             </div>
-            <div class="width50"><img class="from-right" src="img/creez.png" alt="Créez votre compte"/></div>
+            <div class="width50"><img class="right-anim" src="img/creez.png" alt="Créez votre compte"/></div>
             </div>
         </section>
-        <section class="marche-list">
+        <section class="marche-list" id="invitez">
+            <div class="bg-rotate grey-background"></div>
             <div class="container line-tarif">
             <div class="width50">
-                <img class="from-left" src="img/creez.png" alt="Logo Croix rouge"/>
+                <img class="from-left" src="img/invitez.png" alt="Invitez vos amis"/>
             </div>
             <div class="width50 right-line-tarif">
                 <h2 class="text-orange">2. Invitez !</h2>
@@ -28,20 +23,20 @@
             </div>
             </div>
         </section>
-        <section class="marche-list">
-            <div class="bg-rotate grey-background"></div>
+        <section class="marche-list" id="spliiitez">
             <div class="container line-tarif">
             <div class="width50 left-line-tarif">
                 <h2 class="text-orange">3. Spliiitez !</h2>
                 <p>Vos proches ont reçu une invitation ? Ils n'ont plus qu'à s'inscrire sur votre Spliiit et payer de manière sécurisée par carte bancaire ou Paypal.</p>
             </div>
-            <div class="width50"><img class="from-right" src="img/creez.png" alt="Logo Téléthon"/></div>
+            <div class="width50"><img class="from-right" src="img/spliiitez.png" alt="Spliiitez votre abonnement"/></div>
             </div>
         </section>
-                <section class="marche-list">
+                <section class="marche-list" id="collectez">
+                <div class="bg-rotate grey-background"></div>
             <div class="container line-tarif">
             <div class="width50">
-                <img class="from-left" src="img/creez.png" alt="Logo WWF"/>
+                <img class="from-left" src="img/collectez.png" alt="Collectez sur votre cagnotte"/>
             </div>
             <div class="width50 right-line-tarif">
                 <h2 class="text-orange">4. Collectez !</h2>
@@ -49,15 +44,15 @@
             </div>
             </div>
         </section>
-        <section class="marche-list">
-            <div class="bg-rotate grey-background"></div>
+        <section class="marche-list" id="utilisez">
             <div class="container line-tarif">
             <div class="width50 left-line-tarif">
                 <h2 class="text-orange">5. Utilisez !</h2>
                 <p>Vous souhaitez utiliser votre cagnotte ? Rien de plus simple. Vous avez le choix entre 3 options : virement bancaire, chèque cadeau ou don.</p>
             </div>
-            <div class="width50"><img class="from-right" src="img/partenaire-tarif.png" alt="Logo Handicap International"/></div>
+            <div class="width50"><img class="from-right" src="img/utilisez.png" alt="Utilisez votre cagnotte"/></div>
             </div>
         </section>
+</section>
 <?php include 'popup-social.php';?>
 <?php include 'footer.php';?>

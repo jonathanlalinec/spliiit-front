@@ -65,16 +65,17 @@
         <h1>Comment ça marche ?</h1>
         <div class="line-fonctionnement">
             <ul>
-                <li><img src="img/creer.png" alt="creer-un-spliiit"/><p><strong>Créez</strong><br>Ouvrez votre Spliiit en 5 secondes gratuitement.</p></li>
+                <li><a href="comment-ca-marche#creez"><img src="img/creer.png" alt="creer-un-spliiit"/><p><strong>Créez</strong><br>Ouvrez votre Spliiit en 5 secondes gratuitement.</p></a></li>
                 <li class="li-flech"><span></span></li>
-                <li><img src="img/partage.png" alt="partager-l-adresse"/><p><strong>Invitez</strong><br>Partagez l'adresse de votre Spliiit à vos amis.</p></li>
+                <li><a href="comment-ca-marche#invitez"><img src="img/partage.png" alt="partager-l-adresse"/><p><strong>Invitez</strong><br>Partagez l'adresse de votre Spliiit à vos amis.</p></a></li>
                 <li class="li-flech"><span></span></li>
-                <li><img src="img/inscription.png" alt="abonnement-spliiit"/><p><strong>Spliiitez</strong><br>Vos amis s'abonnent à votre Spliiit.</p></li>
+                <li><a href="comment-ca-marche#spliiitez"><img src="img/inscription.png" alt="abonnement-spliiit"/><p><strong>Spliiitez</strong><br>Vos amis s'abonnent à votre Spliiit.</p></a></li>
                 <li class="li-flech"><span></span></li>
-                <li><img src="img/creditcard.png" alt="payer-par-cb"/><p><strong>Collectez</strong><br>Vos amis sont débités chaque mois par CB.</p></li>
+                <li><a href="comment-ca-marche#collectez"><img src="img/creditcard.png" alt="payer-par-cb"/><p><strong>Collectez</strong><br>Vos amis sont débités chaque mois par CB.</p></a></li>
                 <li class="li-flech"><span></span></li>
-                <li><img src="img/recuperer.png" alt="cagnotte-virement"/><p><strong>Utilisez</strong><br>Enfin demandez à tout moment votre cagnotte !</p></li>
+                <li><a href="comment-ca-marche#utilisez"><img src="img/recuperer.png" alt="cagnotte-virement"/><p><strong>Utilisez</strong><br>Enfin demandez à tout moment votre cagnotte !</p></a></li>
             </ul>
+            <a href="comment-ca-marche" class="btn-plus">En savoir plus</a>
         </div>
     </section>
     <section class="pour-qui">
@@ -120,8 +121,7 @@
 </div>
      <div class="container flex">
         <div class="line-dons width50 from-left">
-        <h2>Pour la bonne cause !</h2>
-            <h3>Et si ces revenus additionnels pouvaient êtres utiles ?</h3>
+        <h2>Dons à des associations</h2>
             <p>Spliiit vous propose de transformer vos gains en dons auprès d’une association sans aucune commission et sans minimum.</p>
             <a href="associations.php" class="btn-white" title="Liste des associations">Voir les associations</a>
         </div>
