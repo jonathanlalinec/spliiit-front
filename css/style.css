@@ -2235,6 +2235,9 @@ footer li:hover{
     font-size: 14px;
     font-weight: 700;
 }
+.accroche-header:hover{
+    color:#2A2F45!important;
+}
 .tarifs{
     text-align:center;
     margin-top:40px;
