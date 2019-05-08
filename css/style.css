@@ -1847,18 +1847,28 @@ footer li:hover{
 .ui-icon-triangle-1-e, .ui-icon-triangle-1-s{
     margin-right:10px;
 }
-.faq{padding-top:430px!important;}
 .cgu ul{
     padding-left:30px;
     text-align:left;
     margin-top: -20px;
     margin-bottom: 20px;
 }
+.faq-grey{
+    position:relative;
+        padding-top: 140px;
+    margin-bottom: 170px;
+}
+.ui-widget{
+    font-family:'Nunito', sans-serif!important;
+}
 .cgu li{
     list-style: disc;
 }
 .link-linkedin img{
     width:50px;
+}
+.intro-cgu{
+    text-align: center;
 }
 .link-linkedin{
     margin-top:30px;
@@ -1871,6 +1881,14 @@ footer li:hover{
     width:33%;
     padding:30px;
     margin:150px 0;
+}
+.faq h1{
+    color:#d83a4e!important;
+    font-size:32px!important;
+    text-align:center!important;
+}
+.ui-accordion .ui-accordion-content{
+    background: transparent!important;
 }
 .right-anim{
     width: 100%;
