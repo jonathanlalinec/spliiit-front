@@ -8,7 +8,7 @@
             <a href="https://www.instagram.com/spliiit_off/" target="_blank">
                 <img src="img/instagram-btn.png" alt="Instagram Spliiit"/>
             </a>
-            <a href="https://twitter.com/Spliiit1" target="_blank">
+            <a href="https://twitter.com/spliiitfr" target="_blank">
                 <img src="img/twitter-btn.png" alt="Twitter Spliiit"/>
             </a>
         </div>

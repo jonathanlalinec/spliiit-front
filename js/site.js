@@ -1,5 +1,10 @@
 $(document).ready(function() {
-
+$( "#faq" ).accordion({
+	header: "h2",
+	collapsible: true,
+	active: false,
+	heightStyle: "content"
+})
     /*
      * Popup cagnotte
      */

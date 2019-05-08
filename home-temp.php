@@ -50,11 +50,12 @@
            <a href="#"><div class="logo-nav"><img src="img/logo-icon.png" alt="Logo Spliiit Icone"/></div></a>
             <p class="accroche-header">L'abonnement collaboratif</p>
             <div class="btn-nav">
-            <ul>
-                <li><a href="comment-ca-marche">Comment ça marche ?</a></li>
-                <li><a href="associations">Associations</a></li>
-                <li><a href="tarifs">Tarifs</a></li>
-            </ul>
+            <ul itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+                <li itemprop="name"><a itemprop="url" href="comment-ca-marche">Comment ça marche ?</a></li>
+                <li itemprop="name"><a itemprop="url" href="associations">Associations</a></li>
+                <li itemprop="name"><a itemprop="url" href="tarifs">Tarifs</a></li>
+                <li itemprop="name"><a itemprop="url" href="faq">FAQ</a></li>
+                </ul>
             <a class="btn-login btn-blue">Se connecter</a>
             <a href="#" class="btn-orange">Créer mon Spliiit</a>
             </div>

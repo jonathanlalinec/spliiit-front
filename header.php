@@ -14,7 +14,7 @@ Le tout en un clin d'oeil et gratuitement !",
 	"logo": "https://www.spliiit.com/img/logo-shemaorg.png",
 	"url": "https://www.spliiit.com",
 	"telephone": "+33185087416",
-	"sameAs": ["https://twitter.com/Spliiit1","https://www.facebook.com/spliiit","https://www.instagram.com/spliiit_off"],
+	"sameAs": ["https://twitter.com/spliiitfr","https://www.facebook.com/spliiit","https://www.instagram.com/spliiit_off"],
 	"address": {
 		"@type": "PostalAddress",
 		"streetAddress": "4 bis rue royer bendele",

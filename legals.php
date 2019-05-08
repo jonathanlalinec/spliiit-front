@@ -7,11 +7,11 @@
         <p>Le document suivant fournit des données obligatoires concernant l'éditeur du site, ces obligations en matière de protection des données, ainsi que d'autres références juridiques importantes concernant le site Internet de Spliiit (www.spliiit.com) tel que requis par la loi.</p>
         <div class="bloc-white padding3050 margin50">    
         <h2>SPLIIIT</h2>
-            <p>4 bis rue royer bendélé<br>
-                92230 Gennevilliers<br>
-                FRANCE<br>
-                contact@spliiit.com<br>
-                SIRET N° 820 722 999 000 19
+            <p>SAS au capital de 1 000 €<br>
+                RCS Nanterre 850 505 694 00016<br>
+                Code APE<br>
+                TVA n°: FR 91 850 505 694<br>
+                Siège social : 4 bis rue royer bendélé – 92230 Gennevilliers – France.
             </p>
         </div>
         <div class="bloc-white padding3050 margin50">    
