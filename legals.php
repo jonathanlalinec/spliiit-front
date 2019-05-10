@@ -4,7 +4,7 @@
 
 <section class="mentions">
     <div class="container">
-        <p>Le document suivant fournit des données obligatoires concernant l'éditeur du site, ces obligations en matière de protection des données, ainsi que d'autres références juridiques importantes concernant le site Internet de Spliiit (www.spliiit.com) tel que requis par la loi.</p>
+        <p class="center">Le document suivant fournit des données obligatoires concernant l'éditeur du site, ces obligations en matière de protection des données, ainsi que d'autres références juridiques importantes concernant le site Internet de Spliiit (www.spliiit.com) tel que requis par la loi.</p>
         <div class="bloc-white padding3050 margin50">    
         <h2>SPLIIIT</h2>
             <p>SAS au capital de 1 000 €<br>

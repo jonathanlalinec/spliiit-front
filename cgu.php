@@ -4,7 +4,7 @@
 
 <section class="cgu">
     <div class="container">
-        <p>L'accès aux services proposés par Spliiit se fera uniquement sous la réserve de l'acceptation des conditions décrites ci-dessous que Spliiit est libre de modifier à tout moment et sans aucun préavis. L'utilisateur est invité à se référer régulièrement à la dernière version des présentes conditions disponibles en permanence à l'adresse suivante : https://www.spliiit.com/cgu La version française de ce document prévaut sur toutes les autres langues.
+        <p class="center">L'accès aux services proposés par Spliiit se fera uniquement sous la réserve de l'acceptation des conditions décrites ci-dessous que Spliiit est libre de modifier à tout moment et sans aucun préavis. L'utilisateur est invité à se référer régulièrement à la dernière version des présentes conditions disponibles en permanence à l'adresse suivante : https://www.spliiit.com/cgu La version française de ce document prévaut sur toutes les autres langues.
 </p>
             <div class="bloc-white padding3050 margin50">    
             <h2>Définitions</h2>   

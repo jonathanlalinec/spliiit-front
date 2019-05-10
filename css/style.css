@@ -1438,6 +1438,120 @@ footer li:hover{
     margin:0 0 20px;
 }
 
+.left-contact img{
+    width:50px;
+    margin-left:40px;
+    margin-top:110px;
+}
+.form-contact{
+    position:relative;
+    padding-bottom:100px;
+}
+.form-contact h2{
+    text-align:center;
+    font-size:32px;
+}
+.btn-choix-mail svg, .other-contact svg{
+    height:40px;
+    margin-bottom:10px;
+}
+.btn-chat{
+    color: #2a2440;
+    margin-right: 10px;
+    position: relative;
+    line-height: 42px;
+    height: 46px;
+    margin-top: 20px;
+    margin-left:40px;
+    top:30px;
+    border: 2px solid #2a2440;
+    border-radius: 100px;
+    padding: 10px 30px 14px;
+    cursor: pointer;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+    -webkit-transition-duration: 0.15s;
+    transition-duration: 0.15s;
+}
+.form-contact p{
+    text-align:center;
+    margin:30px 0;
+}
+.btn-choix-mail{
+    width:25%;
+    margin:0 30px;
+    font-weight: 700;
+    padding:30px 0;
+    border:2px solid transparent;
+    cursor:pointer;
+}
+.btn-choix-mail:hover{
+    border-color:#d83a4e;
+}
+.select-btn-mail path, .select-btn-mail g, .select-btn-mail svg{
+    fill:#d83a4e;
+}
+.textarea-mail textarea{
+    width: 100%;
+    border: none;
+    padding: 30px;
+    text-align: left;
+    font-size: 16px;
+    font-family: 'Nunito', sans-serif;
+    color: #2a2440;
+}
+.select-btn-mail{
+    border-color:#d83a4e!important;
+    color:#d83a4e!important;
+}
+.other-contact{margin-top:100px;}
+.btn-choix-mail p{
+    margin:0;
+}
+.other-contact-btn{
+    margin:0 30px;
+    padding:30px 0;
+}
+.other-contact-btn p{
+    margin:0;
+    font-weight:300;
+}
+.other-contact-btn strong{
+    font-size:20px;
+}
+.other-contact-btn path{
+    fill:#d83a4e;
+}
+.line-info-contact{
+    margin-top:15px!important;
+}
+.tel-contact{
+    font-size: 28px!important;
+    font-weight: 700!important;
+    line-height: 52px;
+}
+.btn-chat:hover{
+    color:#d83a4e;
+    border-color:#d83a4e;
+    -webkit-transition-timing-function: ease-out;
+    transition-timing-function: ease-out;
+    -webkit-transition-duration: 0.15s;
+    transition-duration: 0.15s;
+}
+.right-contact img{
+    width:423px;
+}
+.left-contact{
+    margin-top:50px;
+}
+.right-contact{
+    width:423px;
+    margin-top:50px;
+}
+.center{
+    text-align:center;
+}
+
 .btn{
     -webkit-transition-timing-function: ease-out;
     transition-timing-function: ease-out;
@@ -2220,7 +2334,7 @@ footer li:hover{
 }
 .personna{
 }
-.personna p, .marche-list p, .dons-list p{
+.personna p, .marche-list p, .dons-list p, .contact p{
     line-height: 24px;
     margin:0 40px;
 }
@@ -2230,11 +2344,14 @@ footer li:hover{
 .input-left{
     margin-right:15px;
 }
-.personna h2, .marche-list h2, .dons-list h2{
+.personna h2, .marche-list h2, .dons-list h2, .contact h2{
     text-align:left;
     font-weight:700;
     font-size:32px;
     margin:110px 40px 30px;
+}
+.contact h2{
+    margin-top:30px;
 }
 .dons-list h2{
     margin-top:30px;
