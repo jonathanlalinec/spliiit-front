@@ -61,20 +61,20 @@
             </div>
         </nav>
     </header>
-    <section class="fonctionnement container">
+    <section class="fonctionnement container" itemscope itemtype="http://schema.org/HowTo">
         <div class="anchor" id="fonctionnement"></div>
-        <h1>Comment ça marche ?</h1>
+        <h1 itemprop="name">Comment ça marche ?</h1>
         <div class="line-fonctionnement">
             <ul>
-                <li><a href="comment-ca-marche#creez"><img src="img/creer.png" alt="creer-un-spliiit"/><p><strong>Créez</strong><br>Ouvrez votre Spliiit en 5 secondes gratuitement.</p></a></li>
+                <li itemprop="step" itemscope itemtype="http://schema.org/HowToStep"><a href="comment-ca-marche#creez" itemprop="url"><img src="img/creer.png" alt="creer-un-spliiit" itemprop="image"/><p><strong itemprop="name">Créez</strong><br><span itemprop="text">Ouvrez votre Spliiit en 5 secondes gratuitement.</span></p></a></li>
                 <li class="li-flech"><span></span></li>
-                <li><a href="comment-ca-marche#invitez"><img src="img/partage.png" alt="partager-l-adresse"/><p><strong>Invitez</strong><br>Partagez l'adresse de votre Spliiit à vos amis.</p></a></li>
+                <li itemprop="step" itemscope itemtype="http://schema.org/HowToStep"><a href="comment-ca-marche#invitez" itemprop="url"><img src="img/partage.png" alt="partager-l-adresse" itemprop="image"/><p><strong itemprop="name">Invitez</strong><br><span itemprop="text">Partagez l'adresse de votre Spliiit à vos amis.</span></p></a></li>
                 <li class="li-flech"><span></span></li>
-                <li><a href="comment-ca-marche#spliiitez"><img src="img/inscription.png" alt="abonnement-spliiit"/><p><strong>Spliiitez</strong><br>Vos amis s'abonnent à votre Spliiit.</p></a></li>
+                <li itemprop="step" itemscope itemtype="http://schema.org/HowToStep"><a href="comment-ca-marche#spliiitez" itemprop="url"><img src="img/inscription.png" alt="abonnement-spliiit" itemprop="image"/><p><strong itemprop="name">Spliiitez</strong><br><span itemprop="text">Vos amis s'abonnent à votre Spliiit.</span></p></a></li>
                 <li class="li-flech"><span></span></li>
-                <li><a href="comment-ca-marche#collectez"><img src="img/creditcard.png" alt="payer-par-cb"/><p><strong>Collectez</strong><br>Vos amis sont débités chaque mois par CB.</p></a></li>
+                <li itemprop="step" itemscope itemtype="http://schema.org/HowToStep"><a href="comment-ca-marche#collectez" itemprop="url"><img src="img/creditcard.png" alt="payer-par-cb" itemprop="image"/><p><strong itemprop="name">Collectez</strong><br><span itemprop="text">Vos amis sont débités chaque mois par CB.</span></p></a></li>
                 <li class="li-flech"><span></span></li>
-                <li><a href="comment-ca-marche#utilisez"><img src="img/recuperer.png" alt="cagnotte-virement"/><p><strong>Utilisez</strong><br>Enfin demandez à tout moment votre cagnotte !</p></a></li>
+                <li itemprop="step" itemscope itemtype="http://schema.org/HowToStep"><a href="comment-ca-marche#utilisez" itemprop="url"><img src="img/recuperer.png" alt="cagnotte-virement" itemprop="image"/><p><strong itemprop="name">Utilisez</strong><br><span itemprop="text">Enfin demandez à tout moment votre cagnotte !</span></p></a></li>
             </ul>
             <a href="comment-ca-marche" class="btn-plus">En savoir plus</a>
         </div>

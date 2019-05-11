@@ -29,7 +29,6 @@ body{
 .question-faq{
     position:relative;
     text-align:center;
-    margin-top:-50px;
     padding-bottom:190px;
 }
 .question-faq h2{
@@ -1595,7 +1594,7 @@ footer li:hover{
     width: 4%;
     padding:0;
 }
-.line-fonctionnement li span{
+.line-fonctionnement .li-flech span{
     position: absolute;
     top: 50%;
     left: 50%;
@@ -1970,7 +1969,7 @@ footer li:hover{
 .faq-grey{
     position:relative;
         padding-top: 140px;
-    margin-bottom: 170px;
+    margin-bottom: 150px;
 }
 .ui-widget{
     font-family:'Nunito', sans-serif!important;
@@ -2000,6 +1999,7 @@ footer li:hover{
     color:#d83a4e!important;
     font-size:32px!important;
     text-align:center!important;
+    margin-top:0;
 }
 .ui-accordion .ui-accordion-content{
     background: transparent!important;

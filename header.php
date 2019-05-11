@@ -6,14 +6,13 @@
     <script type="application/ld+json">
 {
 	"@context": "http://schema.org",
-	"@type": "Organization",
+	"@type": "Corporation",
 	"name": "Spliiit",
-	"description": "Spliiit vous permet de partager le prix d'un abonnement avec vos amis, votre famille...
-Le tout en un clin d'oeil et gratuitement !",
+	"description": "Spliiit vous permet de partager le prix d'un abonnement avec vos proches.",
 	"image": "https://www.spliiit.com/img/homepage.png",
 	"logo": "https://www.spliiit.com/img/logo-shemaorg.png",
 	"url": "https://www.spliiit.com",
-	"telephone": "+33185087416",
+	"telephone": "+33156055423",
 	"sameAs": ["https://twitter.com/spliiitfr","https://www.facebook.com/spliiit","https://www.instagram.com/spliiit_off"],
 	"address": {
 		"@type": "PostalAddress",

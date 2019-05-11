@@ -14,7 +14,7 @@
 </nav>
 <header id="home">
     <div class="title-other-page">
-        <h1><?php if(isset($title)): ?><?php echo $title ?><?php else: ?>Sans titre<?php endif ?></h1>
+        <h1 itemprop="name"><?php if(isset($title)): ?><?php echo $title ?><?php else: ?>Sans titre<?php endif ?></h1>
         <div class="divider"></div>
     </div>
         <div class="bg-rotate height-page">
